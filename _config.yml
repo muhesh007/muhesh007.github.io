@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-<img src="wizards.png" alt="wizards" width="500" height="500">
+![](wizards.png){width=1in}
 title: Wizards 2022
 description: Leaderboard
