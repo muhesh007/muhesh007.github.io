@@ -1,8 +1,3 @@
 theme: jekyll-theme-cayman
-project-name: Wizards 2022
-project-tagline: Leaderboard
-
-theme_color:  rgb(25,55,71)
-font:         Noto Sans, Helvetica, Arial, sans-serif
-font_heading: Roboto Slab, Helvetica, Arial, sans-serif
-google_fonts: Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+title: Wizards 2022
+subtitle: Leader Board
