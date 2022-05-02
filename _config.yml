@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
-title: Blog
+og-title: Wizards 2022
+og-description: Leaderboard
+
 theme_color:  rgb(25,55,71)
 font:         Noto Sans, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Helvetica, Arial, sans-serif
