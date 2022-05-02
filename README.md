@@ -1,5 +1,6 @@
+# Wizards 2022
 
-# Leader Board
+## Leader Board
 
 
 |Sno | Department | First Place | Second Place | Third Place | Total tally|
