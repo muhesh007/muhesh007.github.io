@@ -1,5 +1,7 @@
 !(wizards.png)
-background : ![wizards](https://user-images.githubusercontent.com/104786130/166410364-239b39bb-3fdb-44af-bbb4-74c4dc70d256.png)
+background-image:url(https://user-images.githubusercontent.com/104786130/166410364-239b39bb-3fdb-44af-bbb4-74c4dc70d256.png);
+/*background-colour:lightgrey;/
+background-size:cover
 
 |Sno | Department | First Place | Second Place | Third Place | Total tally|
 |---|---|---|---|---|---|
