@@ -1,6 +1,4 @@
-fst{
-!(wizards.png)
-background-image:![wizards.png](https://user-images.githubusercontent.com/104786130/166410364-239b39bb-3fdb-44af-bbb4-74c4dc70d256.png);
+<link ref="stylesheet" href = "style.css">
 
 |Sno | Department | First Place | Second Place | Third Place | Total tally|
 |---|---|---|---|---|---|
