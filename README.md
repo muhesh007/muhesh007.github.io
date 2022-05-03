@@ -1,5 +1,6 @@
 !(wizards.png)
 
+#image !(/wizards.png)
 
 
 |Sno | Department | First Place | Second Place | Third Place | Total tally|
